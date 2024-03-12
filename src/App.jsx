@@ -1,14 +1,18 @@
-import { useState } from 'react'
 import './App.css'
+import Blogs from './component/Blogs/Blogs'
+import Booksmarks from './component/Booksmarks/Booksmarks'
+import Header from './component/Header/Header'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-  
-      <h1 className='text-6xl'>Knowledge Cafe</h1>
-    
+      <Header></Header>
+      <div className='md:flex'>
+        <Blogs></Blogs>
+        <Booksmarks></Booksmarks>
+      </div>
+
     </>
   )
 }

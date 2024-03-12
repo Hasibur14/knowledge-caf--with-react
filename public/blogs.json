@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover-img": "https://i.ibb.co/Mkjn1ZZ/f79dff0324c966b5479581b5b3d5d1e6.jpg",
+      "title": "The Mystery of the Lost City",
+      "author": "John Doe",
+      "author-img": "https://example.com/author1.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 15,
+      "hashtags": ["adventure", "mystery", "exploration"]
+    },
+    {
+      "id": "2",
+      "cover-img": "https://i.ibb.co/8jCcJbF/Rectangle-1-1.png",
+      "title": "Secrets of the Deep Blue",
+      "author": "Jane Smith",
+      "author-img": "https://example.com/author2.jpg",
+      "posted_date": "2024-03-09",
+      "reading_time": 12,
+      "hashtags": ["ocean", "marine", "discovery"]
+    },
+    {
+      "id": "3",
+      "cover-img": "https://i.ibb.co/8jCcJbF/Rectangle-1-1.png",
+      "title": "Beyond the Stars",
+      "author": "Alan Johnson",
+      "author-img": "https://example.com/author3.jpg",
+      "posted_date": "2024-03-08",
+      "reading_time": 20,
+      "hashtags": ["space", "exploration", "science"]
+    },
+    {
+      "id": "4",
+      "cover-img": "https://example.com/cover4.jpg",
+      "title": "The Enigma of Time",
+      "author": "Emily Brown",
+      "author-img": "https://example.com/author4.jpg",
+      "posted_date": "2024-03-07",
+      "reading_time": 18,
+      "hashtags": ["time", "philosophy", "mystery"]
+    },
+    {
+      "id": "5",
+      "cover-img": "https://example.com/cover5.jpg",
+      "title": "The Legend of the Golden Temple",
+      "author": "Michael Anderson",
+      "author-img": "https://example.com/author5.jpg",
+      "posted_date": "2024-03-06",
+      "reading_time": 22,
+      "hashtags": ["history", "adventure", "legend"]
+    }
+  ]
+  
